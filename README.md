@@ -1,2 +1,2 @@
-# Paint-on-QT
-Qt Paint on Qt/C++
+# White Board on QT 5.6
+White Board on QT/C++
